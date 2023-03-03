@@ -1,4 +1,4 @@
-# Hello, name's Alex
+# Hello, name's Alex 💥
 
 - Hotdog
 - Not hotdog
