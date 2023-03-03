@@ -1,4 +1,4 @@
-# Hello, name's Alex 💥
+# Hello, the name's Alex 💥
 
 ### Here are some important points to ponder:
 - Hotdog
